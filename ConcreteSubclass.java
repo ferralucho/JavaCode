@@ -13,6 +13,6 @@ public class ConcreteSubclass extends AbstractSubclass {
 	   concrete.test1();
 	   concrete.test2();
 	   concrete.test3();
-	   AbstractSuperclass test = new AbstractSuperclass();
+	   //AbstractSuperclass test = new AbstractSuperclass();
    }
 }
