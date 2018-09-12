@@ -13,7 +13,6 @@ import java.util.Deque;
  * Limitation:
  *    CPU cycles are wasted in Indexer as it is waiting for page to be downloaded
  *  
- * @author Dheeru Mundluru
  *
  */
 public class NaiveIndexer {
