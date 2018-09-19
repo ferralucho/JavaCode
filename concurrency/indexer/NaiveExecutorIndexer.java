@@ -1,4 +1,4 @@
-package com.semanticsquare.concurrency.indexer;
+package concurrency.indexer;
 
 import java.net.MalformedURLException;
 import java.net.URISyntaxException;
