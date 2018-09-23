@@ -33,8 +33,6 @@ import java.util.concurrent.TimeUnit;
  *    Uses ExecutorService's timed invokeAll method to submit all tasks. 
  *    Uses each Future's isCancelled & get method for indexing
  *  
- * @author Dheeru Mundluru
- *
  */
 
 public class TimedInvokeAllIndexer {

@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/HP/Documents/PROGRAMACION/JAVA/jid/Functional programming/htmlcleaner-2.21.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>

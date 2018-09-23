@@ -17,9 +17,6 @@ import java.util.concurrent.Executors;
  *    
  * Limitation:
  *    Same limitation as NaiveIndexer with CPU cycles being wasted
- *  
- * @author Dheeru Mundluru
- *
  */
 
 public class NaiveExecutorIndexer {

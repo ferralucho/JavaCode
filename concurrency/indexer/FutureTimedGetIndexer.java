@@ -33,7 +33,6 @@ import java.util.concurrent.TimeoutException;
  * Difference from FutureIndexer:
  *    Uses Future's timed get method and an extra catch clause is added for canceling the task
  *  
- * @author Dheeru Mundluru
  *
  */
 
